@@ -1,0 +1,17 @@
+body{
+    background-color: #ffffff;
+background-image: url("https://www.transparenttextures.com/patterns/dark-wood.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+
+
+
+
+h1 {
+    color: red;
+}
+
+#myimage {
+    width: 400px;
+}
